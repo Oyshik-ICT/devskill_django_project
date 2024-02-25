@@ -1,0 +1,1 @@
+# This a django project which take information about teachers and students and store it in database.
